@@ -1,7 +1,30 @@
 # https://starship.rs/config
 
 [aws]
+symbol = " "
 disabled = true
+
+[docker]
+symbol = " "
+
+[git_branch]
+symbol = " "
+
+[golang]
+symbol = " "
 
 [kubernetes]
 disabled = false
+
+[nodejs]
+symbol = " "
+
+[package]
+symbol = " "
+
+[php]
+symbol = " "
+
+[python]
+symbol = " "
+
