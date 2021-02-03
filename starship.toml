@@ -10,6 +10,10 @@ symbol = " "
 [git_branch]
 symbol = " "
 
+[git_status]
+# Extremely slow on massive monorepos.
+disabled = true
+
 [golang]
 symbol = " "
 
